@@ -1,4 +1,4 @@
-# FWSASA
+# WSFFSA
 Project Overview:
 This project integrates a web scraper to collect financial data and performs sentiment analysis using a pre-trained model from Hugging Face.
 
